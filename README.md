@@ -1,2 +1,2 @@
 # linesofcode
-Displays the remaining lines of code. Addition
+Displays the remaining lines of code. Additional
